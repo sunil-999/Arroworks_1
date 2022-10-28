@@ -1,2 +1,2 @@
-
+Added the sample content
 The is the demo file to discuss on the git merge concept.
