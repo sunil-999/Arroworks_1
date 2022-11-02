@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 The is the demo file to discuss on the git merge concept.
 The is for the temp fix.
+=======
+Added the sample content
+The is the demo file to discuss on the git merge concept.
+Added the content for the new merge with PR.
+>>>>>>> 936dc64ad441e4fd4b1bc645076c7735935e61ef
