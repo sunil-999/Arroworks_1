@@ -1,4 +1,5 @@
 *.txt @shivasaich
 *.doc @suunnil
-myfile @shivasaich
+myfile @suunil
+CODEOWNERS @suunnil
 newfile.txt @suunnil
