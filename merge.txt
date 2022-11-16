@@ -1,3 +1,0 @@
-Added the sample content
-The is the demo file to discuss on the git merge concept.
-Added the content for the new merge with PR.
